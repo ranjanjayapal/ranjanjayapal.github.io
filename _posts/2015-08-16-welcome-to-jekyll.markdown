@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Linear Regression works along with Gradient Descent
+title: 2017-08-08-How Linear Regression works along with Gradient Descent
 date: {}
 categories: jekyll update
 published: true
