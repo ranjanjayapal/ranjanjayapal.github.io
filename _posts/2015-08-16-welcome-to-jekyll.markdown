@@ -1,12 +1,32 @@
 ---
 layout: post
-title: Test Welcome post for the blog
-date: 2015-08-16T15:36:27.000Z
+title: How Linear Regression works along with Gradient Descent
+date: {}
 categories: jekyll update
 published: true
 excerpt: This is a small description to chekc the validity of the front matter.
 comments: true
 ---
+---
+date: 2017-08-08
+---
+###
+
+Introduction
+
+###
+
+Around 20 years ago when scientists and researches started playing around the concept of teaching machines to learn from new unseen events rather than having people to manually rewrite certain code to fit a new event. Researchers started to write and publish papers on this topic. As intriguing as they were people started to dismiss these concepts as something that could never be achieved. It was only until few years ago that everyone realised the potential of teaching machines the art of learning. All the papers written two decades ago were reread and implemented only to then understand the true power of Machine Learning!
+
+##
+
+Linear Regression
+##
+
+To explain Linear Regression let me first explain regression.
+
+**Regression**
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
