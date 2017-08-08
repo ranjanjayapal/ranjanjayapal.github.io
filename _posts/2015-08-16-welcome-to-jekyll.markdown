@@ -7,9 +7,6 @@ published: true
 excerpt: This is a small description to chekc the validity of the front matter.
 comments: true
 ---
----
-date: 2017-08-08
----
 ###
 
 Introduction
